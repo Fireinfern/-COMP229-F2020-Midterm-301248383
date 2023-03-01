@@ -1,3 +1,10 @@
+/**======================
+ * FILE: book.js
+ * AUTHOR: Sebastian Silva
+ * StudentID: 301248383
+ * AppName: MyFavoriteBooksApp
+ *========================**/
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();

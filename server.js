@@ -1,7 +1,7 @@
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');
-
+//! This Project runs with dotenv in the Dev enviroment, start the project with `npm run dev`
 /**
  * Get port from environment and store in Express.
  */

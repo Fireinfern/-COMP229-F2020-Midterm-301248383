@@ -1,3 +1,10 @@
+/**======================
+ * FILE: app.js
+ * AUTHOR: Sebastian Silva
+ * StudentID: 301248383
+ * AppName: MyFavoriteBooksApp
+ *========================**/
+
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');
